@@ -1,7 +1,7 @@
 package pkg.exception;
 public class StockMarketExpection extends Exception {
 	/**
-	 * 
+	 * Added a dummy comment
 	 */
 	private static final long serialVersionUID = 1L;
 	private String message;
